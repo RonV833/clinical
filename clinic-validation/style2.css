@@ -1,0 +1,24 @@
+body {
+    background-image: url('images/patient.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    padding: 80px 20px;
+    color: white;
+    
+}
+form {
+    background-color: beige;
+    border-radius: 10px;
+    padding: 10px;
+    color: black;
+    box-shadow: 12px 12px 12px 12px whitesmoke;
+}
+.forlog {
+    background-color: beige;
+    width: fit-content;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
